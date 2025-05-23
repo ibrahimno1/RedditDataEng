@@ -1,0 +1,283 @@
+id,title,selftext,score,num_comments,author,created_utc,url,upvote_ratio,over_18,edited,spoiler,stickied
+1krb45d,Which SQL editor do you use?,"Which Editor do you use to write SQL code. And does that differ for the different flavours of SQL.
+
+I nowadays try to use vim dadbod or vscode with extensions.
+
+",58,102,Hungry_Ad8053,2025-05-20 17:41:24,https://www.reddit.com/r/dataengineering/comments/1krb45d/which_sql_editor_do_you_use/,0.94,False,False,False,False
+1krcm3p,Anyone working on cool side projects?,"Data engineering has so much potential in everyday life, but it takes effort. Who’s working on a side project/hobby/hustle that you’re willing to share?",36,29,alexstrehlke,2025-05-20 18:40:23,https://www.reddit.com/r/dataengineering/comments/1krcm3p/anyone_working_on_cool_side_projects/,0.91,False,False,False,False
+1krmviy,it has to work this time…,,30,1,EntrancePrize682,2025-05-21 02:21:37,https://i.redd.it/nagx3637p12f1.jpeg,0.9,False,False,False,False
+1kr4jcg,Early-career Data Engineer,"Right after graduating, I landed a role as a DBA/Data Engineer at a small but growing company. Until last year, they had been handling data through file shares until they had a consultancy company build them Synapse workspace with daily data refreshes. While I was initially just desperate to get my foot in the door, I’ve genuinely come to enjoy this role and the challenges that come with it. I am the only one working as a DE and while my manager is somewhat knowledgeable in IT space, I can't truly consider him as my DE mentor. That said, I was pretty much thrown into the deep end, and while I’ve learned a lot through trial and error, I do wish that I had started under a senior who could be a mentor for me.
+
+Figuring out things myself has sort of a double edge, where on one hand, the process of figuring out has sometimes lead to new learning endeavours while sometimes I'm just left wondering: Is this really the optimal solution? 
+
+So, I’m hoping to get some advice from this community:
+
+# 1. Mentorship & Guidance
+
+* How did you find a mentor (internally or externally)?
+* Are there communities (Slack, Discord, forums) you’d recommend joining?
+* Are there folks in the data space worth following (blogs, LinkedIn, GitHub, etc.)? I currenlty follow Zack wilson and a few others who can be found by surface level research into the space.
+
+# 2. Conferences & Meetups
+
+* Have any of you found value in attending data engineering or analytics conferences?
+* Any recommendations for events that are beginner-friendly and actually useful for someone in a role like mine?
+
+# 3. Improving as a Solo Data Engineer
+
+* Any learning paths or courses that helped you understand more than just what works but also *w*hy?",14,4,NoIntroduction9767,2025-05-20 13:12:54,https://www.reddit.com/r/dataengineering/comments/1kr4jcg/earlycareer_data_engineer/,0.76,False,False,False,False
+1kr6009,"Passing from a empty period, with low creativity as a DE","In the last few weeks i am low at creativity, i am no learning anything or doing enough efforts, i feel emptiness at my job rn as a DE, i am not capable of completing tasks on schedule, or solving problems by myself instead everytime someone needs to step in and give me a hand or solve it while i am watching like some idiot
+
+Before this period, i was super creative, solving crazy problems, fast on schedule, and required minimum help from my collegues, and very motivated
+
+If anyone passed from this situation can share his experience",13,10,HMZ_PBI,2025-05-20 14:17:57,https://www.reddit.com/r/dataengineering/comments/1kr6009/passing_from_a_empty_period_with_low_creativity/,0.73,False,False,False,False
+1krkt28,"DataLemur vs strataScratch vs NamasteSQL vs LeetCodeSQL, How would you rate these platforms for SQL practice in 2025 DE job market?",What's your experience been across each platform?,9,1,NefariousnessSea5101,2025-05-21 00:34:50,https://www.reddit.com/r/dataengineering/comments/1krkt28/datalemur_vs_stratascratch_vs_namastesql_vs/,0.77,False,False,False,False
+1krfoh4,Does dbt have a language server?,"dbt seems to be getting locked more and more into Visual Studio Code, there new addon means the best developer experience will probably be VSCode followed by their dbt Cloud offering.
+
+  
+I don't really mind this but as a hobbyist tinkerer, it feels a bit closed for my liking.
+
+Is there any community effort to build out an LSP or other integrations for the vim users, or other editors I could explore?
+
+ChatGPT seems to suggest FiveTran had an attempt at it but it seems like it was discontinued.",7,4,wallyflops,2025-05-20 20:43:59,https://www.reddit.com/r/dataengineering/comments/1krfoh4/does_dbt_have_a_language_server/,0.75,False,False,False,False
+1kr78ax,Conduit v0.13.5 with a new Ollama processor,"* [Add a new Ollama Processor as built-in processor](https://github.com/ConduitIO/conduit/pull/2227).
+* [Add the ability to easily configure Processor Plugins when building a custom Conduit](https://github.com/ConduitIO/conduit/pull/2260). Check out the [documentation page for more information](https://conduit.io/docs/using/processors/additional-built-in-plugins). Thanks [u/nickchomey](https://github.com/nickchomey) for the contribution!
+* [New configuration option `preview.pipeline-arch-v2-disable-metrics` to disable metrics for the new pipeline architecture](https://github.com/ConduitIO/conduit/pull/2271).
+* [Fixes a bug where the ENV variable `CONDUIT_CONFIG_PATH` didn't seem to work propertly](https://github.com/ConduitIO/ecdysis/issues/25).
+* [Fixes a bug when using the default processor middleware](https://github.com/ConduitIO/conduit-processor-sdk/issues/111).",8,0,raulb_,2025-05-20 15:08:03,https://conduit.io/changelog/2025-05-20-conduit-0-13-5-release,0.73,False,False,False,False
+1krj10a,How does your organization manage the accesses to the data?,"In short, currently the BI department in my org is managing all of the accesses to data & tools. 
+
+According to them, only they should have an access to the data warehouse, everyone else should only use Looker and if needed , extract stuff from Looker to excel and manipulate/run calculations.
+
+In my opinion this is insane as the we have numerous people on high payrolls within marketing, finance departments with analytical background and skills with SQL/Python. 
+
+Is this usual? This eliminates any autonomy and slows everything down substantially, as any new development has to go through sprints and prioritization.",10,15,TikraiNeMentas,2025-05-20 23:08:57,https://www.reddit.com/r/dataengineering/comments/1krj10a/how_does_your_organization_manage_the_accesses_to/,0.86,False,False,False,False
+1kr4wtk,"A Distributed System from scratch, with Scala 3 - Part 3: Job submission, worker scaling, and leader election & consensus with Raft",,10,3,otter-in-a-suit,2025-05-20 13:30:04,https://chollinger.com/blog/2025/05/a-distributed-system-from-scratch-with-scala-3-part-3-job-submission-worker-scaling-and-leader-election-consensus-with-raft/,0.86,False,False,False,False
+1kr1azg,How to build an API on top of a dbt model?,"I have quite a complex SQL query within DBT which I have been tasked to build an API 'on top of'.
+
+More specifically, I want to create an API that allows users to send input data (e.g., JSON with column values), and under the hood, it runs my dbt model using that input and returns the transformed output as defined by the model.
+
+For example, suppose I have a dbt model called `my_model` (in reality the model is a lot more complex):
+
+    select 
+        {{ macro_1(""col_1"") }} as out_col_1,
+        {{ macro_2(""col_1"", ""col_2"") }} as out_col_2
+    from 
+        {{ ref('input_model_or_data') }}
+    
+
+Normally, `ref('input_model_or_data')` would resolve to another dbt model, but I’ve seen in dbt unit tests that you can inject synthetic data into that `ref()`, like this:
+
+    - name: test_my_model
+      model: my_model
+      given:
+        - input: ref('input_model_or_data')
+          rows:
+            - {col_1: 'val_1', col_2: 1}
+      expect:
+        rows:
+          - {out_col_1: ""out_val_1"", out_col_2: ""out_val_2""}
+    
+
+This allows the test to override the input source. I’d like to do something similar via an API: the user sends input like `{col_1: 'val_1', col_2: 1}` to an endpoint, and the API returns the output of the dbt model (e.g., `{out_col_1: ""out_val_1"", out_col_2: ""out_val_2""}`), having used that input as the data behind `ref('input_model_or_data')`.
+
+What’s the recommended way to do something like this?",8,15,bebmfec,2025-05-20 10:15:49,https://www.reddit.com/r/dataengineering/comments/1kr1azg/how_to_build_an_api_on_top_of_a_dbt_model/,0.84,False,False,False,False
+1kr3wb2,Reverse Sampling: Rethinking How We Test Data Pipelines,,5,0,growth_man,2025-05-20 12:42:12,https://moderndata101.substack.com/p/reverse-sampling-rethinking-data-pipelines,0.78,False,False,False,False
+1kqyceq,Designing Robust Schema Registry Systems for On-Premise Data Infrastructure,"I'm building an entirely on-premise conversational AI agent that lets users query SQL, NoSQL (MongoDB), and vector (Qdrant) stores using natural language. We rely on an embedded schema registry to:
+
+1. Drive natural language to query generation across heterogeneous stores
+2. Enable multi-database joins in a single conversation
+3. Handle schema evolution without downtime
+
+**Key questions:**
+
+* How do you version and enforce compatibility checks when your registry is hosted in-house (e.g., in SQLite) and needs to serve sub-100 ms lookups? For smaller databases, it's not a problem, but for multiple databases, each with millions of rows, how do you make this validation quick?
+* What patterns keep adapters ""pluggable"" and synchronized as source schemas evolve (think Protobuf → JSON → Avro migrations)?
+* How have you handled backward compatibility when deprecating fields while still supporting historical natural language sessions?
+
+I'd especially appreciate insights from those who have built custom registries/adapters in regulated environments where cloud services aren't an option.
+
+Thanks in advance for any pointers or war stories!",4,1,ScienceInformal3001,2025-05-20 06:45:31,https://www.reddit.com/r/dataengineering/comments/1kqyceq/designing_robust_schema_registry_systems_for/,1.0,False,False,False,False
+1kqwy6k,Attribute/features extraction logic for ecommerce product titles,"Hi everyone,
+
+I'm working on a **product classifier** for ecommerce listings, and I'm looking for advice on the best way to **extract specific attributes/features** from product titles, such as the **number of doors in a wardrobe**.
+
+For example, I have titles like:
+
+* 🟢 *""BRAND X Kayden Engineered Wood 3 Door Wardrobe for Clothes, Cupboard Wooden Almirah for Bedroom, Multi Utility Wardrobe with Hanger Rod Lock and Handles,1 Year Warranty, Columbian Walnut Finis*h""
+* 🔵 *""BRAND X Kayden Engineered Wood 5 Door Wardrobe for Clothes, Cupboard Wooden Almirah for Bedroom, Multi Utility Wardrobe with Hanger Rod Lock and Handles,1 Year Warranty, Columbian Walnut Finis*h""
+
+I need to design a logic or model that can correctly **differentiate between these products** based on the number of doors (in this case, **3 Door** vs **5 Door**).
+
+I'm considering approaches like:
+
+* Regex-based rule extraction (e.g., extracting `(\d+)\s+door`)
+* Using a tokenizer + keyword attention model
+* Fine-tuning a small transformer model to extract structured attributes
+* Dependency parsing to associate numerals with the right product feature
+
+Has anyone tackled a similar problem? I'd love to hear:
+
+* What worked for you?
+* Would you recommend a rule-based, ML-based, or hybrid approach?
+* How do you handle generalization to other attributes like material, color, or dimensions?
+
+Thanks in advance! 🙏",4,2,Problemsolver_11,2025-05-20 05:10:32,https://www.reddit.com/r/dataengineering/comments/1kqwy6k/attributefeatures_extraction_logic_for_ecommerce/,1.0,False,False,False,False
+1krbz8o,Easiest/most affordable way to move data from Snowflake to Salesforce.,"Hey yall,
+
+I'm a one man show at my company and I've been tasked with helping pipe data from our Snowflake warehouse into Salesforce. My current tech stack is Fivetran, dbt cloud, and Snowflake and I was hoping there would be some integrations that are affordable amongst these tools to make this happen reliably and affordably without having to build out a bunch of custom infra that I'd have to maintain. The options I've seen (specifically salesforce connect) are not affordable.
+
+Thanks!",3,17,biga410,2025-05-20 18:14:48,https://www.reddit.com/r/dataengineering/comments/1krbz8o/easiestmost_affordable_way_to_move_data_from/,0.81,False,False,False,False
+1krmoe1,Career Advice needed…,"Hi folks,
+
+I recently changed my company. Previously, I was working on AWS, GCP, and other data engineering tools, and was involved in good projects that helped me learn and grow in my career.
+
+However, my new company is an IBM partner, and currently, they don’t have any data engineering projects. As a result, I’m currently on the bench.
+
+I would really appreciate any advice or suggestions on what I should do in this situation.
+
+I have around 1.5 years of experience, and being on the bench at such a crucial stage in my career doesn’t feel right.",3,2,khushal20,2025-05-21 02:11:18,https://www.reddit.com/r/dataengineering/comments/1krmoe1/career_advice_needed/,0.81,False,False,False,False
+1kr4nw5,Does it make sense to use Dagster for web scraping,"I work at a company where we have some web scrapers made using a proprietary technology that we’re trying to get rid of. 
+
+We have permission to scrape the websites that we are scraping, if that impacts anything.
+
+I was wondering if Dagster is the appropriate tool to orchestrate selenium based web scraping and have it run on AWS using docker and EC2 most likely.
+
+Any insights are much appreciated!",4,3,Jazzlike_Middle2757,2025-05-20 13:18:42,https://www.reddit.com/r/dataengineering/comments/1kr4nw5/does_it_make_sense_to_use_dagster_for_web_scraping/,0.75,False,False,False,False
+1krml8r,Using Apache OpenDAL to Design Iceberg Rust's Universal Storage Layer,,2,0,Ill_Force756,2025-05-21 02:06:42,https://www.hackintoshrao.com/one-interface-many-backends-the-design-of-iceberg-rusts-universal-storage-layer-with-opendal/,0.76,False,False,False,False
+1krforx,How to define a validation framework for IoT and manual meter readings before analytics?,"Hello,
+
+I'm not even sure if this post should be here but since my internship role is data engineering, i am asking because i'm sure a lot of experienced data engineers who have had problems like this will read this.
+
+ At our utilities company, we manage gas and heating meters and face data quality challenges with both manual and IoT-based meter readings. Manual readings, entered on-site by technicians via a CMMS tool, and IoT-based automatic readings, collected by connected meters and sent directly to BigQuery via ingestion pipelines, currently lack validation. The IoT pipeline is particularly problematic, inserting large volumes of unverified data into our analytics database without checks for anomalies, inconsistencies, or hardware malfunctions. To address this, we aim to design a functional validation framework before selecting technical tools.
+
+Key considerations include defining validation rules, handling invalid or suspect data and applying confidence scoring to readings, comparing IoT and manual readings to reconcile discrepancies. We seek functional ideas, best practices, and examples of validation frameworks, particularly for IoT, utilities, or time-series data, focusing on documentation approaches, validation strategies, and operational processes to guide our implementation.
+
+Thanks to everyone who takes time to answer, we don't even know how to start setting up our data pipeline since we can't define anomaly standards yet and what actions to do in case of anomaly detection. ",1,0,Ok-Way-8559,2025-05-20 20:44:21,https://www.reddit.com/r/dataengineering/comments/1krforx/how_to_define_a_validation_framework_for_iot_and/,0.67,False,False,False,False
+1krc33s,General-purpose model for making instant predictions over relational data,"KumoRFM handles instant predictive tasks over enterprise/structured data.
+
+They’ve detailed how it works: the model turns relational databases into graphs, uses in-context examples (pulled straight from the data), and makes predictions without task-specific training.
+
+It can predict things like user churn, product demand, fraud, or what item a user might click next, without writing custom models.
+
+There's a technical blog and a whitepaper
+
+[https://kumo.ai/company/news/kumo-relational-foundation-model/](https://kumo.ai/company/news/kumo-relational-foundation-model/)",1,0,Outhere9977,2025-05-20 18:19:04,https://www.reddit.com/r/dataengineering/comments/1krc33s/generalpurpose_model_for_making_instant/,0.6,False,False,False,False
+1kqzlwu,What do privacy team really need from data discovery tools?,"Hey everyone – I'm an independent privacy researcher exploring how orgs like yours discover and classify personal data (PII) across systems, especially under GDPR, or CCPA.
+
+I’ve created a short, focused 6–8 minute survey (completely anonymous) to learn what’s working, what’s frustrating, and what tools actually deliver value.
+
+Your input helps identify real pain points the privacy/security community faces today. 
+
+Thanks for helping out — happy to share results with the community if folks are interested.",1,0,Which_Extension_1852,2025-05-20 08:15:50,https://www.surveymonkey.com/r/JX7CTY3,0.57,False,False,False,False
+1kro76m,"How would you tame 15 years of unstructured contracting files (drawings, photos & invoices) into a searchable, future-proof library?","First time poster long time lurker.  Inherited ~15 years of digital chaos:
+	•	2 TB of PDFs (plan sets, specs, RFIs)
+	•	~ job-site photos (mixed EXIF, no naming rules)
+	•	Financial docs (QuickBooks exports, scanned invoices, lien waivers)
+
+I’ve helped developed a better way forward yet don’t want to miss an opportunity to fix what’s here or at least learn from it: everything created from 2025 onward must follow a single taxonomy and stay searchable. I have:
+	•	Windows 11 & Microsoft 365 E5 (so SharePoint, Syntex, Purview are on the table)
+	•	Budget & patience to self-host FOSS if that’s cleaner (Alfresco, Mayan EDMS, etc.)
+	•	Basic Python chops for scripting bulk imports / Tika metadata extraction
+
+Looking for advice on:
+	1.	Practical taxonomy schemes for a business GC (project, phase, CSI division, doc-type…).
+	2.	War-stories on SharePoint + Syntex vs. self-hosted EDMS for 1–3 TB archives.
+	3.	Gotchas when bulk OCR’ing 10k scanned drawings or mixing vector PDFs with raster scans.
+	4.	Tools that make ongoing discipline idiot-proof drop folders, retention rules, dupe detection.
+
+Any “wish I’d known this first” lessons appreciated. Thanks!",2,1,morhope,2025-05-21 03:31:33,https://www.reddit.com/r/dataengineering/comments/1kro76m/how_would_you_tame_15_years_of_unstructured/,0.75,False,False,False,False
+1kreeme,Revolutionizing Data Catalogs with CDC: The DataGalaxy Journey,"Hey folks! 
+
+Just wanted to share something cool from the team at DataGalaxy. They recently dropped a detailed post about how they’re using Change Data Capture (CDC) to completely rethink how data catalogs work. If you're curious about how companies are tackling some modern data challenges, it’s a solid read.
+
+  
+ [Revolutionizing Data Catalogs with CDC: The DataGalaxy Journey](https://engineering.datagalaxy.com/revolutionizing-data-catalogs-with-cdc-the-datagalaxy-journey-b2624b4f7c5f)
+
+Would love to hear what you all think!",0,0,Byakuyako,2025-05-20 19:52:06,https://www.reddit.com/r/dataengineering/comments/1kreeme/revolutionizing_data_catalogs_with_cdc_the/,0.5,False,False,False,False
+1kr22qd,Learning Data Engineering. Would Love Your Feedback and Advice!,"Hey everyone,
+I hope you’re doing well. I’m currently learning data engineering and wanted to share what I’ve built so far — I’d really appreciate any advice, feedback, or suggestions on what to learn next!
+
+Here’s what I’ve worked on:
+
+1. Data Warehouse Star Schema Project
+	•	Followed a YouTube playlist to build a basic data warehouse using PostgreSQL
+	•	Designed a star schema with fact and dimension tables (factSales, dimCustomer, dimMovie, etc.)
+	•	Wrote SQL queries to extract, transform, and load data
+
+GitHub repo:[Data Warehouse Star Schema Project](https://github.com/SwapnilDawar2004/Data-Warehouse-Star-Schema-Project)
+
+2. Wealth Data Modelling Project
+	•	Set up a PostgreSQL database to store and manage financial account data
+	•	Used Python, Pandas, and psycopg2 for data cleaning and database interaction
+	•	Built everything in Jupyter Notebook using a Kaggle dataset
+
+GitHub repo: [Wealth Data Modelling Project](https://github.com/SwapnilDawar2004/Wealth-Data-Modelling-Project)
+
+I’d love to know What should I focus on next to improve my skills? Any tips on what to do better for internships or job opportunities?
+
+Thanks in advance for any help",0,3,GarageFederal,2025-05-20 11:03:26,https://www.reddit.com/r/dataengineering/comments/1kr22qd/learning_data_engineering_would_love_your/,0.5,False,False,False,False
+1kr1pce,Tool to use LLMs for your data engineering workflow,"Hey, At Vitalops we created a new  open source tool that does data transformations with simple natural langauge instructions and LLMs, without worrying about volume of data in context length or insanely high costs. 
+
+Currently we support:
+
+- Map and Filter operations
+- Use your custom LLM class or, Azure, or use Ollama for local LLM inferencing.
+- Dask Dataframes that supports partitioning and parallel processing 
+
+
+Check it out here, hope it's useful for you!
+
+
+https://github.com/vitalops/datatune",0,1,metalvendetta,2025-05-20 10:41:18,https://www.reddit.com/r/dataengineering/comments/1kr1pce/tool_to_use_llms_for_your_data_engineering/,0.31,False,False,False,False
+1krbroc,"I'm feeling lost in my DE journey, and extensive AI use has left me crippled","Hey everyone,
+
+I'm 31M feeling incredibly lost and could really use some guidance from this community. I quit my receptionist job abroad at the beginning of 2024 to self-study Data Engineering, and it's been a rollercoaster ever since.
+
+I enrolled in Dataquest's Data Engineering program and, somehow, managed to finish it recently. It took me a full year, with some gaps in between, but I kept pushing through. I've learned Python, SQL, PostgreSQL, CLI, GitHub, basic algorithms, NumPy, Pandas, and even pipeline concepts.
+
+Here's the problem: **I don't feel confident enough to say I truly** ***know*** **any of it.** My main tool for learning and understanding code and concepts was AI. Now, I feel like I can't really code anything without it. Whenever I start a new portfolio project, I feel like I can't start or code without seeing a reference or using AI.
+
+This extensive use of AI has gotten me to a level where **I can't start a script or project without a reference**. It's like my brain has become reliant on AI to fill in the gaps, and without it, I'm stuck. I'd open a new Python file and immediately feel this overwhelming urge to just type ""how to build a data pipeline in Python"" into AI. It's incredibly frustrating because I *want* to be able to build things independently, but I feel crippled without that crutch.
+
+The thought of a technical inter view absolutely terrifies me. I can picture myself being asked to whiteboard a SQL query or code a simple Python function, and my mind just going blank. Even though I've ""learned"" these things, the active recall and problem-solving under pressure without AI assistance feels like an insurmountable hurdle. I worry that all my self-study has only given me a shallow understanding that won't hold up in a real-world scenario. 
+
+# The Web Dev Detour & DE Doubt:
+
+The weirdest part is, while feeling lost in DE, I stumbled into web development. I built two static websites, [**fixmypdf.in**](http://fixmypdf.in) **and** [**freeinvoiceonline.com**](http://freeinvoiceonline.com)  This was purely ""vibe coding"" by just messing around, learning HTML, CSS, and JavaScript as along the way. I actually felt a genuine sense of accomplishment and independence there since I self launched myself and really saw some people using it. It makes me question if Data Engineering is even the right path for me, or if I just got lucky with the web dev stuff. It's confusing to feel confident in one area I just ""vibed"" into, but completely lost in the field I've been diligently studying for a year.
+
+# The ""Knowing"" vs. ""Doing"" Gap:
+
+I am able to understand  data pipeline or an explanation of a complex SQL join, thinking, ""Yeah, I get that."" But when it comes to actually*doing* it, building it, or debugging it myself, it's a completely different story. There's this huge gap between intellectual understanding and practical application, and I feel like the AI has widened that gap. It's almost like I've been a passenger in my own learning journey, and now I need to learn how to drive.
+
+
+
+I feel so lost right now. I don't know what to do next, 
+
+**What should I do next?**
+
+**How can I truly improve myself to break free from this AI dependency?**
+
+**how to even begin looking for a job,** 
+
+**how to truly improve myself to break free from this AI dependency.**
+
+**Are the things I learned while building fixmypdf.in and freeinvoiceonline.com really a waste?**
+
+**Did I really waste my past year of dedicated study? Do I still have hopes/chances to get into Data Engineering?**
+
+Has anyone else experienced this over-reliance on AI during their learning journey? What steps did you take to overcome it? Any advice on how to bridge the gap between theoretical knowledge and practical application, especially for someone trying to break into Data Engineering?
+
+Any guidance, no matter how small, I would really appreciate it. Thanks in advance!",0,9,ramseywinster,2025-05-20 18:06:33,https://www.reddit.com/r/dataengineering/comments/1krbroc/im_feeling_lost_in_my_de_journey_and_extensive_ai/,0.36,False,False,False,False
+1kqzwgx,"Opinion - ""grey box engineering"" is here, and we're ""outcome engineers""","Similar to Test driven development, I think we are already seeing something we can call ""outcome driven development"". Think apps like Replit, or perhaps even vibe dashboarding  - where the validation part is you looking at the outcome instead of at the code that was generated.
+
+I recently had to do a migration and i did it that way. Our telemetry data that was feeding to the wrong GCP project. The old pipeline was running an old version of dlt (pre v.1) and the accidental move also upgraded dlt to current version which now typed things slightly differently. There were also missing columns, etc.
+
+Long story short, i worked with Claude 3.7 max (lesser models are a waste of time) and Cursor to create a migration script and validate that it would work, without me actually looking at the python code written by llm - I just looked at the generated SQL and test outcomes (but i didn't look if the tests were indeed implemented correctly - just looked at where they failed)
+
+I did the whole migration without reading any generated code (and i am not a YOLO crazy person - it was a calculated risk with a possible recovery pathway). let that sink in. Took 2h instead of 2-3d
+
+Do you have any similar experiences?
+
+Edit: please don't downvote because you don't like it's happening, trying to have dialogue",0,23,Thinker_Assignment,2025-05-20 08:37:25,https://www.reddit.com/r/dataengineering/comments/1kqzwgx/opinion_grey_box_engineering_is_here_and_were/,0.42,False,False,False,False
+1kr6jbw,What?! An Iceberg Catalog that works?,,0,4,averageflatlanders,2025-05-20 14:39:55,https://dataengineeringcentral.substack.com/p/what-an-iceberg-catalog-that-works,0.35,False,False,False,False
